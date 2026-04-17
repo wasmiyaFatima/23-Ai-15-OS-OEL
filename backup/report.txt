@@ -1,0 +1,21 @@
+Cleanup and Backup Report - 2026-04-16
+=======================================
+Run Date: Thu Apr 16 11:28:12 AM PKT 2026
+Source: /home/abdulrehman/Documents/operating system/system_lab/project
+Backup Destination: /home/abdulrehman/Documents/operating system/system_lab/backup/backup_2026-04-16
+---------------------------------------
+DELETED FILES (.tmp > 7 days):
+[DELETED] /home/abdulrehman/Documents/operating system/system_lab/project/user1/test.tmp (0 bytes)
+
+MOVED FILES (Backup > 30 days):
+[MOVED] /home/abdulrehman/Documents/operating system/system_lab/project/user1/logs/test.log -> /home/abdulrehman/Documents/operating system/system_lab/backup/backup_2026-04-16/user1/logs/test.log (0 bytes)
+
+---------------------------------------
+SUMMARY:
+Files Deleted:          1
+Files Moved to Backup:  1
+Space Deleted:          0 bytes
+Space Moved:            0 bytes
+Total Cleared from Src: 0 bytes (~0 MB)
+Permission Errors:      0
+---------------------------------------

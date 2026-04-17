@@ -1,0 +1,26 @@
+2026-04-16 11:11:55 - Starting maintenance run.
+2026-04-16 11:11:55 - Deleted /home/abdulrehman/Documents/operating system/system_lab/project/user1/junk.tmp
+2026-04-16 11:11:55 - Deleted /home/abdulrehman/Documents/operating system/system_lab/project/old_session.tmp
+2026-04-16 11:11:55 - Moved /home/abdulrehman/Documents/operating system/system_lab/project/large_data.txt to /home/abdulrehman/Documents/operating system/system_lab/backup/backup_2026-04-16/large_data.txt
+2026-04-16 11:11:55 - Moved /home/abdulrehman/Documents/operating system/system_lab/project/protected.log to /home/abdulrehman/Documents/operating system/system_lab/backup/backup_2026-04-16/protected.log
+2026-04-16 11:11:55 - Moved /home/abdulrehman/Documents/operating system/system_lab/project/user1/logs/old_system.log to /home/abdulrehman/Documents/operating system/system_lab/backup/backup_2026-04-16/user1/logs/old_system.log
+2026-04-16 11:11:55 - Moved /home/abdulrehman/Documents/operating system/system_lab/project/user2/work/archive.zip to /home/abdulrehman/Documents/operating system/system_lab/backup/backup_2026-04-16/user2/work/archive.zip
+2026-04-16 11:11:55 - Maintenance completed. Deleted: 2, Moved: 4, Errors: 0
+2026-04-16 11:12:38 - Starting maintenance run.
+2026-04-16 11:12:38 - Deleted /home/abdulrehman/Documents/operating system/system_lab/project/user1/junk.tmp
+2026-04-16 11:12:38 - Deleted /home/abdulrehman/Documents/operating system/system_lab/project/old_session.tmp
+2026-04-16 11:12:38 - Moved /home/abdulrehman/Documents/operating system/system_lab/project/large_data.txt to /home/abdulrehman/Documents/operating system/system_lab/backup/backup_2026-04-16/large_data.txt_111238
+2026-04-16 11:12:38 - Moved /home/abdulrehman/Documents/operating system/system_lab/project/user1/logs/old_system.log to /home/abdulrehman/Documents/operating system/system_lab/backup/backup_2026-04-16/user1/logs/old_system.log_111238
+2026-04-16 11:12:38 - Moved /home/abdulrehman/Documents/operating system/system_lab/project/user2/work/archive.zip to /home/abdulrehman/Documents/operating system/system_lab/backup/backup_2026-04-16/user2/work/archive.zip_111238
+2026-04-16 11:12:38 - Maintenance completed. Deleted: 2, Moved: 3, Errors: 0
+2026-04-16 11:25:24 - Starting maintenance run.
+2026-04-16 11:25:54 - Starting maintenance run.
+2026-04-16 11:25:54 - Maintenance completed. Deleted: 0, Moved: 0, Errors: 0
+2026-04-16 11:27:03 - Starting maintenance run.
+2026-04-16 11:27:03 - Maintenance completed. Deleted: 0, Moved: 0, Errors: 0
+2026-04-16 11:27:30 - Starting maintenance run.
+2026-04-16 11:27:30 - Maintenance completed. Deleted: 0, Moved: 0, Errors: 0
+2026-04-16 11:28:12 - Starting maintenance run.
+2026-04-16 11:28:12 - Deleted /home/abdulrehman/Documents/operating system/system_lab/project/user1/test.tmp
+2026-04-16 11:28:12 - Moved /home/abdulrehman/Documents/operating system/system_lab/project/user1/logs/test.log to /home/abdulrehman/Documents/operating system/system_lab/backup/backup_2026-04-16/user1/logs/test.log
+2026-04-16 11:28:12 - Maintenance completed. Deleted: 1, Moved: 1, Errors: 0
